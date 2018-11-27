@@ -8,13 +8,33 @@ By the end of the workshop you should be set up with a development environment a
 
 ## Slides Used
 
-- [Serverless Presentation](Serverless-Modern Application Development.pdf)
+
+- [Serverless Presentation]
+
+
+- [Serverless](Serverless-Modern%20Application%20Development.pdf)
 
 ## Hands On
 Code Pattern 
--[Run serverless functions with image recognition] (https://developer.ibm.com/patterns/run-serverless-functions-with-image-recognition/)
+- [Run serverless functions with image recognition](https://developer.ibm.com/patterns/run-serverless-functions-with-image-recognition/)
 
 
+## Pre-req
+
+Register on IBM Cloud
+
+Pre - Requisite 
+* IBM Cloud Sign up
+https://ibm.biz/BdY6Pw
+
+* Command line Interface
+Based on your OS, download and install from 
+https://console.bluemix.net/docs/cli/index.html
+
+
+
+
+## More Hands on
 * For detailed hands on you can refer 
 
 - [Getting started](morelabs/getting-started.md)
