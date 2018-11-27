@@ -9,10 +9,7 @@ By the end of the workshop you should be set up with a development environment a
 ## Slides Used
 
 
-- [Serverless Presentation]
-
-
-- [Serverless](Serverless-Modern%20Application%20Development.pdf)
+- [Serverless Presentation](Serverless-Modern%20Application%20Development.pdf)
 
 ## Hands On
 Code Pattern 
