@@ -23,11 +23,10 @@ Code Pattern
 
 Register on IBM Cloud
 
-Pre - Requisite 
-* IBM Cloud Sign up
-https://ibm.biz/BdY6Pw
+* IBM Cloud [Sign up](https://ibm.biz/BdY6Pw)
 
 * Command line Interface
+
 Based on your OS, download and install from 
 https://console.bluemix.net/docs/cli/index.html
 
